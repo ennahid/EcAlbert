@@ -1,0 +1,150 @@
+.sidebar-nav__link{
+	color: #ffff;
+}
+
+.sidebar__user{
+	padding: 20px;
+}
+
+.my-spacer{
+	height: 50px;
+}
+
+.open_list{
+	display: block;
+}
+
+.out-active{
+	background: #007bff;
+}
+.in-active{
+	background: #3a4552;
+}
+
+.table-img-round{
+	width: 25px;
+	height: 25px;
+	overflow: hidden;
+	margin: auto;
+}
+.table-img-round img{
+	width: 100%;
+	height: 100%;
+}
+
+.switch-inline{
+		margin-bottom: 20px;
+}
+
+.mybox-text{
+	height: 40px;
+	padding: 5px;
+	padding-left: 10px;
+	color: white;
+}
+.etud{
+	background: #20c997;
+}
+.par{
+	background: #dc3545;
+}
+.grp{
+	background: #6610f2;
+}
+.prof{
+	background: #fd7e14;
+}
+.prof-2{
+	background: #e83e8c;
+}
+.etud_ar{
+	background: #17a2b8;
+}
+.etud_an{
+	background: #fd7e14;
+}
+.suivi{
+	background: #e83e8c;
+}
+
+}
+.mybox-text h2{
+	color: #fff;
+}
+.form_cont_par{
+	border: 1px solid #dc3545;
+}
+
+.form_cont_prof,.form_cont_prof-2,.form_cont_etud_ar,.form_cont_par,.form_cont_etud,.form_cont_grp,.form_cont_etud_an,.form_cont_suivi{
+	background: white;
+	padding: 20px;
+	border: 1px solid #fd7e14;
+}
+.form_cont_prof{
+	border: 1px solid #fd7e14;
+}
+.form_cont_prof-2{
+	border: 1px solid #e83e8c;
+}
+.form_cont_etud_ar{
+	border: 1px solid #17a2b8;
+}
+.form_cont_etud{
+	border: 1px solid #20c997;
+}
+.form_cont_grp{
+	border: 1px solid #6610f2;
+}
+
+.form_cont_etud_an{
+	border: 1px solid #fd7e14;
+}
+.form_cont_suivi{
+	border: 1px solid #e83e8c;
+}
+
+
+
+
+
+
+
+.student-image{
+    height: 120px;
+    overflow:  hidden;
+    border-radius: 50%;
+}
+
+
+.student-image img{
+	height: 100px;
+    width:  auto;
+    border-radius: 50%;
+}
+
+.pagination-container{
+	transform: scale(1.2)translateY(10px);
+	margin-left: calc(100% - 35%);
+}
+
+/*.m-datatable .dt-bootstrap4 .dataTable td,
+      .m-datatable .dt-bootstrap4 .dataTable th {
+        padding: 10px 12px; }
+      .m-datatable .dt-bootstrap4 .dataTable th {
+        border-bottom: none;
+        color: #000;
+        font-weight: normal; }
+        .m-datatable .dt-bootstrap4 .dataTable th.sorting_asc::before, .m-datatable .dt-bootstrap4 .dataTable th.sorting_asc::after, .m-datatable .dt-bootstrap4 .dataTable th.sorting_desc::before, .m-datatable .dt-bootstrap4 .dataTable th.sorting_desc::after, .m-datatable .dt-bootstrap4 .dataTable th.sorting::before, .m-datatable .dt-bootstrap4 .dataTable th.sorting::after {
+          font-size: 2.2rem;
+          bottom: .6rem;
+          opacity: 1;
+          color: #939daa; }
+        .m-datatable .dt-bootstrap4 .dataTable th.sorting_asc::before {
+          color: #000; }
+        .m-datatable .dt-bootstrap4 .dataTable th.sorting_asc::after {
+          color: #939daa; }
+        .m-datatable .dt-bootstrap4 .dataTable th.sorting_desc::before {
+          color: #939daa; }
+        .m-datatable .dt-bootstrap4 .dataTable th.sorting_desc::after {
+          color: #000; }*/
+
